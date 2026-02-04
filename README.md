@@ -1,5 +1,6 @@
 # Understanding Software Construction and Collaboration
 **Course:** Software Construction
+**Group:** Group 1
 
 ---
 
@@ -18,3 +19,10 @@ Code reviews improve software quality by catching errors early, and they improve
 
 ## Reflect briefly on how AI can help in understanding code without replacing learning.
 AI can help in understanding code by acting as an assistant to a developer through summarizing complex code and translating code into different languages. However, AI cannot replace the critical thinking and problem-solving skills needed by developers to design hence not replacing learning.
+
+## Group Members
+- MWONGE ANDREA S24B23/070
+- ASINGWIRE ARNOLD S24B23/013
+- NABUUMA ANDREA HEARTILY M24B23/024
+- ODONG JEFERSON CLINTON S24B23/043
+- AIJUKA JONAH S24B23/097
